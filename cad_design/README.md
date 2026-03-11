@@ -1,11 +1,11 @@
-# Projeto CAD (AutoCAD)
+# CAD Design (AutoCAD)
 
-Este diretório contém os desenhos técnicos detalhados da instalação elétrica industrial.
+This directory contains the detailed technical drawings for the industrial electrical installation.
 
-## Conteúdo do Ficheiro .dwg:
-* **Planta de Iluminação:** Distribuição de luminárias e circuitos de iluminação normal e de emergência.
-* **Planta de Tomadas e Potência:** Localização das máquinas (Serra, CNC, Plaina) e tomadas de uso geral.
-* **Esquemas Monofilares:** Diagramas do Quadro Geral de Baixa Tensão (QGBT) e quadros parciais.
-* **Traçado de Canalizações:** Dimensionamento das esteiras e tubagens de proteção.
+## Drawing Contents:
+* **Lighting Plan:** Distribution of luminaires and circuits for both normal and emergency lighting.
+* **Power & Socket Plan:** Precise location of industrial machinery (CNC, Saws, Planers) and general-purpose sockets.
+* **Single-Line Diagrams:** Detailed schematics for the Main Low Voltage Switchboard (MLVS/QGBT) and all distribution boards.
+* **Cable Routing:** Sizing and paths for cable trays, conduits, and protective ducting.
 
-> **Nota:** Os esquemas foram desenhados seguindo a simbologia regulamentar da RTIEBT.
+> **Technical Standard:** All drawings follow the **RTIEBT** (Portuguese Technical Rules for Low Voltage Electrical Installations) symbology and safety standards.
